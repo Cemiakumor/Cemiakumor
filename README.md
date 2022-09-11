@@ -5,6 +5,5 @@
 - 📫 How to reach me WhatsApp me on +2348164483755
 
 <!---
-Cemiakumor/Cemiakumor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Cemiakumor/Cemiakumor is a young programmer who is willing to change the future to next level with programming .
 --->
